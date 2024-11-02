@@ -7,7 +7,10 @@ const Hero = () => {
     <div className='py-5'>
       <Container className='d-flex justify-content-center'>
         <Card className='p-5 d-flex flex-column align-items-center hero-card bg-light w-75'>
-          <h1>Dun & Paju Oy</h1>
+          <h1>
+            
+            Welcome to <small>Rap & Dun Oy </small>{' '}
+          </h1>
           <p className='text-center mb-4'>
             Welcome to our construction & renovation works. We provide services
             all through out Europe.
