@@ -9,11 +9,10 @@ const Hero = () => {
         <Card className='p-5 d-flex flex-column align-items-center hero-card bg-light w-75'>
           <h1>
             
-            Welcome to <small>Rap & Dun Oy </small>{' '}
+            Welcome to <small>Venkat Kumar's website </small>{' '}
           </h1>
           <p className='text-center mb-4'>
-            Welcome to our construction & renovation works. We provide services
-            all through out Europe.
+            We build scalable websites & apps  to all businesses using modern nextjs & MERN stack. If you need  a webiste or app contact us.
           </p>
           <div className='d-flex'>
             <LinkContainer to='/login'>
